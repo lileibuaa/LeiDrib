@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00b0ff</color>
+    <color name="colorPrimaryDark">#0096ff</color>
+    <color name="colorAccent">#1257d6</color>
+    <color name="slate">#9da3a5</color>
+    <color name="white">#ffffff</color>
+    <color name="charcoal">#333333</color>
+    <color name="red">#FF0000</color>
+    <color name="teams">#00b6e3</color>
+    <color name="black">#000000</color>
+    <color name="charcoal_trans">#DD333333</color>
+    <color name="pink">#ea4c89</color>
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="pro">#66cccc</color>
+    <color name="app_bg">#f1f1f1</color>
+    <color name="grey">#494949</color>
+    <color name="dark_blue">#1976d2</color>
+    <color name="light_blue">#d6f0fc</color>
+    <color name="bright_yellow">#fcf144</color>
+</resources>

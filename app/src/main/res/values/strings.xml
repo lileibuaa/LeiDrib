@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LeiDrib</string>
+    <string name="logout">退出登陆</string>
+    <string name="login_fail">登陆失败</string>
+    <string name="login">登陆(via dribbble.com)</string>
+    <string name="load_fail">加载失败</string>
+    <string name="can_not_load_more">已经到底了</string>
+    <string name="views">Views</string>
+    <string name="comments">Comments</string>
+    <string name="likes">Likes</string>
+    <string name="shots">Shots</string>
+    <string name="debuts">Debuts</string>
+    <string name="by">by</string>
+    <string name="exit_hint">再次点击即可返回桌面</string>
+    <string name="follower">follower</string>
+    <string name="following">following</string>
+    <string name="GIF">GIF</string>
+    <string name="app_author">lileibuaa</string>
+    <string name="github">github.com</string>
+    <string name="jianshu">jianshu.com</string>
+</resources>
